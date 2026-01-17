@@ -123,7 +123,7 @@ Virtual Horizon successfully bridges the gap between physical art institutions a
 **Last Updated**: October 2023  
 **Status**: Active Development  
 **Repository**: [github.com/virtual-horizon/gallery](https://github.com/virtual-horizon/gallery)  
-**Live Demo**: [demo.virtualhorizon.art](https://demo.virtualhorizon.art)  
+**Live Demo**: [demo.virtualhorizon.art](https://virtual-horizonn.vercel.app)  
 
 ## **Installation & Setup**
 
