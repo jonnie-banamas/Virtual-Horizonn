@@ -17,9 +17,9 @@ const styleIcons = {
 };
 
 const styleColors = {
-  modern: 'bg-accent/10 text-accent',
-  classical: 'bg-highlight/10 text-highlight-foreground',
-  minimalist: 'bg-muted text-muted-foreground',
+  modern: 'bg-highlight/30 text-white',
+  classical: 'bg-highlight/10 text-white',
+  minimalist: 'bg-highlight/40 text-white',
 };
 
 export function GalleryCard({ gallery, index = 0 }: GalleryCardProps) {
